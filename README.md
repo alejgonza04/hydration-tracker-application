@@ -18,8 +18,10 @@ I developed this project to tackle a common issue during the hot summer months o
 - Users are then able to log their water consumption as the day progresses, with a percentage of daily goal meter.
 - This motivates users to push forward and complete their goal.
 
-### Reaching Daily Goal and Interactive Leaderboard
+### Reaching Daily Goal
 ![Screenshot 2024-05-13 111426](https://github.com/alejgonza04/water-tracker-application/assets/149022594/7ce206f0-4bed-4a6f-a3a9-d70f8c0044c7)
 - Once the user's daily goal is reached, they are congratulated and can navigate back to the main menu or view the leaderboard.
+
+### Interactive Leaderboard
 ![Screenshot 2024-05-13 111531](https://github.com/alejgonza04/water-tracker-application/assets/149022594/1523f373-bfde-4c49-8a86-39e1365aa5b9)
 - This leaderboard serves to encourage users to beat their previous scores or continue their streak of reaching their goals.
