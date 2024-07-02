@@ -8,9 +8,10 @@ I developed this project to tackle a common issue during the hot summer months o
 - This data will be useful in calculating the amount of water you will drink.
 
 ### Daily Water Intake Calculations
-- The program then utilizes your inputed weight to calculate your daily water intake.
-- This calculation is based on a Penn Medicine study, claiming you should drink half your body weight in ounces per day. This is then converted to cups.
 ![Screenshot 2024-05-13 111320](https://github.com/alejgonza04/water-tracker-application/assets/149022594/29e5669e-7ec5-4184-a798-975840c9d698)
+- The program then utilizes your inputed weight to calculate your daily water intake.
+- This calculation is based on a Penn Medicine study, finding that you should drink about half your body weight in ounces per day. This is then converted to cups.
+
 ![Screenshot 2024-05-13 111357](https://github.com/alejgonza04/water-tracker-application/assets/149022594/d8377981-488c-43e0-a94b-b212fc999160)
 ![Screenshot 2024-05-13 111414](https://github.com/alejgonza04/water-tracker-application/assets/149022594/b8c1409a-6e1f-4b17-9e6e-15451e6960b7)
 ![Screenshot 2024-05-13 111426](https://github.com/alejgonza04/water-tracker-application/assets/149022594/7ce206f0-4bed-4a6f-a3a9-d70f8c0044c7)
