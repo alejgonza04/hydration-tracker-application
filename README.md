@@ -23,5 +23,5 @@ I developed this project to tackle a common issue during the hot summer months o
 - Once the user's daily goal is reached, they are congratulated and can navigate back to the main menu or view the leaderboard.
 
 ### Interactive Leaderboard
-![Screenshot 2024-05-13 111531](https://github.com/alejgonza04/water-tracker-application/assets/149022594/1523f373-bfde-4c49-8a86-39e1365aa5b9)
+![Screenshot 2024-07-02 151230](https://github.com/alejgonza04/water-tracker-application/assets/149022594/5bebfb0d-2dbf-44ec-b738-83b39549cfbc)
 - This leaderboard serves to encourage users to beat their previous scores or continue their streak of reaching their goals.
