@@ -1,5 +1,5 @@
 # About
-I developed this project to tackle a common issue during the hot summer months of my home state Florida: ensuring you stay hydrated. So, I decided to program my own application for this purpose.
+I developed this project to tackle a common issue during the hot summer months of my home state, Florida: ensuring you stay hydrated. So, I decided to program my own application for this purpose.
 
 # Features
 ### Personalized Hydration Tracking
@@ -9,7 +9,7 @@ I developed this project to tackle a common issue during the hot summer months o
 
 ### Daily Water Intake Calculations
 ![Screenshot 2024-05-13 111320](https://github.com/alejgonza04/water-tracker-application/assets/149022594/29e5669e-7ec5-4184-a798-975840c9d698)
-- The program then utilizes your inputed weight to calculate your daily water intake.
+- The program then utilizes your inputted weight to calculate your daily water intake.
 - This calculation is based on a Penn Medicine study, finding that you should drink about half your body weight in ounces per day. This is then converted to cups.
 
 ### Water Consumption Logging
