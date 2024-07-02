@@ -1,0 +1,3 @@
+C:/Users/alejg/OneDrive/Desktop/waterTrackerProject/cmake-build-debug/CMakeFiles/waterTrackerProject.dir
+C:/Users/alejg/OneDrive/Desktop/waterTrackerProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/alejg/OneDrive/Desktop/waterTrackerProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
