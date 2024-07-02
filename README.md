@@ -1,7 +1,7 @@
 # About
 I developed this project to tackle a common issue during the hot summer months of my home state Florida: ensuring you stay hydrated. So, I decided to program my own application for this purpose.
 
-#Features
+# Features
 ### Personalized Hydration Tracking
 ![Screenshot 2024-05-13 111304](https://github.com/alejgonza04/water-tracker-application/assets/149022594/f1d3ce68-759a-4521-8239-666ad22e2290)
 - The application greets you with a welcome screen that asks for your name and weight.
