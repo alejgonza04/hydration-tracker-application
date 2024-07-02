@@ -1,3 +1,6 @@
+# About
+I created this project to solve a common problem during the hot summer months in my state of Florida - ensuring you stay hydrated. So, I decided to create my own application to do so.
+
 ![Screenshot 2024-05-13 111304](https://github.com/alejgonza04/water-tracker-application/assets/149022594/f1d3ce68-759a-4521-8239-666ad22e2290)
 ![Screenshot 2024-05-13 111320](https://github.com/alejgonza04/water-tracker-application/assets/149022594/29e5669e-7ec5-4184-a798-975840c9d698)
 ![Screenshot 2024-05-13 111357](https://github.com/alejgonza04/water-tracker-application/assets/149022594/d8377981-488c-43e0-a94b-b212fc999160)
